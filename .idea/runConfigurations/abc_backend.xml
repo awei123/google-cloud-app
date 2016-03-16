@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="abc-backend" type="AppEngineRunConfiguration" factoryName="App Engine DevAppServer" editBeforeRun="true" singleton="true">
+    <module name="abc-backend" />
+    <setting name="serverAddress" value="localhost" />
+    <setting name="sdkPath" value="file://$USER_HOME$/.gradle/appengine-sdk/appengine-java-sdk-1.9.18" />
+    <setting name="serverPort" value="8080" />
+    <setting name="vmArgs" value="" />
+    <setting name="warPath" value="C:\Users\user\AndroidStudioProjects\google-cloud-app\abc-backend\build\exploded-app" />
+    <setting name="sync" value="true" />
+    <setting name="disableUpdateCheck" value="false" />
+    <method>
+      <option name="AppEngine.Gradle.BeforeRunTask" enabled="true" tasks=":abc-backend:assemble" externalProjectPath="$PROJECT_DIR$/abc-backend" />
+    </method>
+  </configuration>
+</component>

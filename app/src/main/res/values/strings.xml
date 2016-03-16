@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">google-cloud-app</string>
+    <string name="action_settings">Settings</string>
+</resources>
